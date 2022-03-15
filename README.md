@@ -1,5 +1,5 @@
 # download_pyautogui
 
 ### used
-- puppeteer
+- selenium
 - pyautogui
